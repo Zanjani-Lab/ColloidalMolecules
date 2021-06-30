@@ -1,7 +1,7 @@
 # ColloidalMolecules
 The code provided in this repository can be utilized to investigate self-assembly behavior and phononic/photonic transport properties of superstructures formed by a variety of colloidal molecules. A list of relevant publications is provided below:
 
--Parvez, N. and Zanjani, M. B. (2020) Synthetic self-limiting structures engineered with de- fective colloidal clusters. Adv. Funct. Mater. p. 2003317.
+-Parvez, N. and Zanjani, M. B. (2020) Synthetic self-limiting structures engineered with defective colloidal clusters. Adv. Funct. Mater. p. 2003317.
 
 -Parvez, N., Rao, D. M. and Zanjani, M. B. (2019) Investigation of geometric landscape and structure–property relations for colloidal superstructures using genetic algorithm. J. Phys. Chem. B 123(34):7445–7454.
 
