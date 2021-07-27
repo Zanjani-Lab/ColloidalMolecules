@@ -1,4 +1,4 @@
-#Sample attractive interaction potential tabulated file, between DNA-coated particles with average center-to-center distance of 400nm and strength of ~ 4.5 k_b T; adopted from experimentally-validated interaction potential described in Rogers et. al, Proc. Natl. Acad. Sci. U. S. A. 2011, 108 (38), 15687–15692
+#Sample attractive interaction potential tabulated file, between DNA-coated particles with average center-to-center distance of 400nm and strength of ~ 4.5 k_b*T; adopted from experimentally-validated interaction potential described in Rogers et. al, Proc. Natl. Acad. Sci. U. S. A. 2011, 108 (38), 15687–15692
 DNA_Att_Potential
 N 601 R 4.000000E-05 4.600000E-05 
 
