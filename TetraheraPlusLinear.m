@@ -3,7 +3,7 @@
 % Aryana, K., Stahley, J. B., Parvez, N., Kim, K. and Zanjani, M. B. (2019) Superstructures of multielement colloidal molecules: efficient pathways to construct reconfigurable photonic and phononic crystals. Adv. Theory Simul. p. 1800198.
 % Author: Zanjani research group: http://cec.miamioh.edu/zanjani-research 
 % For details about the code setup, visualization in Ovito, and performing MD simulations refer to the code provided for Cubic + Octahedral units
-% particle sizes are chosen for one specific scenario, they can be freely changed according to geometric constraints discussed in the article
+% particle sizes are chosen arbitrarily in this code for one sample scenario, they can be freely changed according to geometric constraints discussed in the article
 clear;
 clc;
 
