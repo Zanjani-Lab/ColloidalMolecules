@@ -1,4 +1,4 @@
-% This code defines a superstructure of Cubic and Linear Colloidal Clusters
+% This MATLAB code defines a superstructure of Cubic and Linear Colloidal Clusters
 % Details about the structure are presented in the following reference:
 % Aryana, K., Stahley, J. B., Parvez, N., Kim, K. and Zanjani, M. B. (2019) Superstructures of multielement colloidal molecules: efficient pathways to construct reconfigurable photonic and phononic crystals. Adv. Theory Simul. p. 1800198.
 % Author: Zanjani research group: http://cec.miamioh.edu/zanjani-research 
