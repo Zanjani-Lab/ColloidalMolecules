@@ -303,7 +303,6 @@ fprintf(fid,'\n');
 
 %atoms position
 fprintf(fid,'Atoms\r\n\n');
-%seed atoms first
 k=1;
 atomindx=0;
 Aindx=0;
@@ -317,7 +316,6 @@ end
 
 %bonds definition
 fprintf(fid,'\nBonds\r\n\n');
-%core bonds
 bn=0;
 for i=1:cellcount
     bn=(i-1)*bondpercell;
