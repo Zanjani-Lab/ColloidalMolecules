@@ -1,7 +1,7 @@
-# This code defines a superstrcuture of Cubic and Octahedral Colloidal clusters
-#details about the structure are presented in the following reference:
-#-Aryana, K., Stahley, J. B., Parvez, N., Kim, K. and Zanjani, M. B. (2019) Superstructures of multielement colloidal molecules: efficient pathways to construct reconfigurable photonic and phononic crystals. Adv. Theory Simul. p. 1800198.
-#Author: Zanjani research group: http://cec.miamioh.edu/zanjani-research 
+# This code defines a superstrcuture of Cubic and Octahedral Colloidal Clusters
+# Author: Zanjani research group: http://cec.miamioh.edu/zanjani-research 
+# Details about the structure are presented in the following reference:
+# Aryana, K., Stahley, J. B., Parvez, N., Kim, K. and Zanjani, M. B. (2019) Superstructures of multielement colloidal molecules: efficient pathways to construct reconfigurable photonic and phononic crystals. Adv. Theory Simul. p. 1800198.
 # To visualize the configuration, you can load the output text file into the Ovito (or similar software), and perform an Affine Transformation that scale everything with a factor of 1e5
 # Following the previous step in Ovito, you can select the following radii for various types
 # raduis of type 1 for visualization in ovito = 2
