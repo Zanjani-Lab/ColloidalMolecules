@@ -1,5 +1,8 @@
 # ColloidalMolecules
-The code provided in this repository can be utilized to investigate self-assembly behavior and phononic/photonic transport properties of superstructures formed by a variety of colloidal molecules. A list of relevant publications is provided below:
+The code provided in this repository can be utilized to investigate self-assembly behavior and properties of superstructures formed by a variety of colloidal molecules. Python or Matlab codes provide the detailed description of how to generate intial configurations of various superstructures. The generated configurations can then be read by a LAMMPS input script, such as the sample script posted for the cube/octahedral system, and analyzed performing MD or BD simulations. 
+DNA-mediated interparticle interactions are modeled according to experimentally-validated interaction potential described in Rogers et. al, Proc. Natl. Acad. Sci. U. S. A. 2011, 108 (38), 15687–15692. Sample Tabulated interaction potentials are posted. We also note that the interaction potentials can be approximated using the mie/cut potential in LAMMPS, with gamma_rep=46, and gamma_att=23, and \epsilon representing the strength of the potential and \sigma representing a measure of the equilibrium distance between the particles. In the case of repulsive interactions, the mie/cut potential can be reproduced with a cuttof distance equal to \sigma.
+
+A list of relevant publications is provided below:
 
 -Parvez, N. and Zanjani, M. B. (2020) Synthetic self-limiting structures engineered with defective colloidal clusters. Adv. Funct. Mater. p. 2003317.
 
